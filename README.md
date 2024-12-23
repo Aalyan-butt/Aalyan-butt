@@ -46,7 +46,6 @@ Developed a PHP-based MVC web app with features like user roles, class managemen
 ---
 
 ## 📈 GitHub Stats
-<p><img src = "https://github-readme-stats.vercel.app/api?username=yourusername&count_private=true&show_icons=true&theme=radical)" alt = "" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aalyan-butt&show_icons=true&locale=en&layout=compact" alt="aalyan-butt" /></p>
 
