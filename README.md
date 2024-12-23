@@ -56,13 +56,14 @@ Developed a PHP-based MVC web app with features like user roles, class managemen
 ---
 
 ## 📫 Let's Connect!
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aalyan-riasat](https://www.linkedin.com/in/aalyan-riasat-04467b274/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aalyan-riasat" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aalyan-riasat-04467b274/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aalyan-riasat" height="30" width="40" /></a>
 <a href="https://fb.com/aalyan riasat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aalyan riasat" height="30" width="40" /></a>
 <a href="https://instagram.com/aalyan.riasat_06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aalyan.riasat_06" height="30" width="40" /></a>
+<a href="https://leetcode.com/your-leetcode-profile-link" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" height="30" width="40" /></a>
 </p>
+
 
 ---
 
