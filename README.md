@@ -1,4 +1,4 @@
-# 💻 Full Stack Web Developer | Machine Learning Expert | Open to Work
+# 💻 Full Stack Web Developer | AI/ML Specialist | Open to Opportunities
 
 <h1>Hi 👋, I'm Aalyan Riasat</h1>
 
